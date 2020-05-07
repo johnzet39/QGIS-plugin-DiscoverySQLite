@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/plugins/_Discovery_sqlite" >
+        <file>icons/adres_nd.png</file>
+        <file>icons/cadastr.png</file>
+        <file>icons/street.png</file>
+        <file>icons/street_sad.png</file>
+        <file>icons/loading.gif</file>
+    </qresource>
+</RCC>
